@@ -1,0 +1,27 @@
+.titulo1{
+    color: red;
+}
+
+#titulo3 {
+    color: black;
+    background-color: white;
+}
+h2{
+    color: blueviolet;
+}
+
+.titulo03 {
+    color: green;
+}
+
+.parrafofondoamarillo { background-color: yellow;
+
+}
+
+.miParrafoEspecial {
+    /* 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: ;
+    font-size:24px;
+    font-weight: 900;
+    font-style:italic ;
+}
